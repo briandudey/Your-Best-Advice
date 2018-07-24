@@ -1,0 +1,16 @@
+{
+  "name": "your_best_advice",
+  "version": "1.0.0",
+  "description": "great advice from folks I meet",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Brian Dudey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "nodemon": "^1.18.3"
+  }
+}
